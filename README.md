@@ -1,6 +1,6 @@
 # weblog-node
 
-This is weblog project written with nodeJS application with expressJS for server, ejs for template engine and mongoDB for database.
+This is weblog project written with NodeJS+ExpressJS for backend, EJS for template engine and MongoDB+Mongoose for database.
 author : {
   Email : Younes.gh@chmail.ir,
   Instagram : Younes.Ghorbany
