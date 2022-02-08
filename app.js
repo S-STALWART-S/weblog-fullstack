@@ -37,7 +37,7 @@ app.set("view engine", "ejs");
 app.set("layout", "./layouts/mainLayout");
 app.set("views", "views");
 
-//* BodyPaser
+//* BodyParser
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
