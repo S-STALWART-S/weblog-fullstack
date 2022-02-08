@@ -39,9 +39,10 @@
 		"shortid": "^2.2.16",
 		"uuid": "^8.3.2",
 		"winston": "^3.5.1",
-		"yup": "^0.32.11"
+		"yup": "^0.32.11",
+		"cross-env": "^7.0.3"
 	},
 	"devDependencies": {
-		"cross-env": "^7.0.3"
+		
 	}
 }
